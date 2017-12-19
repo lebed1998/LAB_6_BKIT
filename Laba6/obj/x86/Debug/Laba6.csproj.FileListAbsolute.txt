@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\Учебный процесс\Баз комп\Laba6\Laba6\bin\Debug\Laba6.exe
+C:\Users\Asus\Desktop\Учебный процесс\Баз комп\Laba6\Laba6\bin\Debug\Laba6.pdb
+C:\Users\Asus\Desktop\Учебный процесс\Баз комп\Laba6\Laba6\obj\x86\Debug\Laba6.exe
+C:\Users\Asus\Desktop\Учебный процесс\Баз комп\Laba6\Laba6\obj\x86\Debug\Laba6.pdb
+C:\Users\1\Desktop\КПИ\Arkhiv\Laba6\Laba6\obj\x86\Debug\Laba6.exe
+C:\Users\1\Desktop\КПИ\Arkhiv\Laba6\Laba6\obj\x86\Debug\Laba6.pdb
+C:\Users\1\Desktop\КПИ\Arkhiv\Laba6\Laba6\bin\Debug\Laba6.exe
+C:\Users\1\Desktop\КПИ\Arkhiv\Laba6\Laba6\bin\Debug\Laba6.pdb
+C:\Users\1\Desktop\КПИ\Arkhiv\Laba6\Laba6\obj\x86\Debug\Laba6.csprojResolveAssemblyReference.cache
